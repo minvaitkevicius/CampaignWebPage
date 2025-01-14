@@ -13,6 +13,9 @@ You all, as adventurers during the summer of 1495, have come to join the Guild f
 ![[Pasted image 20250113214926.png]]
 
 ## Character creation
+Create characters at DND Beyond [here](https://www.dndbeyond.com/campaigns/join/63280182930417957). Wait for Paulius to join before creating a character as he has the books.
+or
+Create chracaters with PDF sheet  [[CharSheet.pdf|here]] (Requires computer and Adobe Acrobat, doesn't work on mobile, but has more options/sources)
 
 - We start at level 3.
 
