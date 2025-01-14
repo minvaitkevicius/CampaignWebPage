@@ -37,7 +37,7 @@ More info in [[Session 0]]
 ### Extra Backgrounds
 
 Here are some extra backgrounds that fit the campaign if you're out of ideas.
-![[Backgrounds.pdf]]
+[[Backgrounds.pdf]]
 
 
 ## Extra world info
