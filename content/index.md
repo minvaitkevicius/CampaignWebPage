@@ -2,15 +2,15 @@
 title: Intro
 ---
 
-![[Djeyunia 2025-01-08-20-03 1.svg]]
+![[Pasted image 20250113214926.png]]
 
 # Hook
 
 The continent of **Djeyunia** is a melting pot of diverse nations and cultures. Ancient texts hint that some races, like elves and dwarves, once lived far longer than humans, goblins, or orcs. But recently, even the oldest among them rarely live past 100 years. Despite numerous investigations, no explanation has been found for this mysterious phenomenon. In year 1486, scholars noticed a disturbing trend: people across all races were aging faster, dying earlier than ever. By 1495 - no one can live over the age of 75. In response in 1495, a joint effort from multiple states formed the **Guild of Waning Threads**. Their mission: to uncover the cause of these premature deaths and find a way to stop them. The guild recently established a small presence in the **Island of Chult** - as an earthquake happens once each new years eve the scholars believe the island might hold the key to the age conundrum. The increasing number of undead in the island also suggest something sinister is going on.
 
 You all, as adventurers during the summer of 1495, have come to join the Guild for various reasons—sent as prodigies by your states, joining friends, volunteering to save the elderly relatives, seeking a pardon for past crimes or just see this as an opportunity to explore a new land and find new treasures. Whatever your reason, you have just finished your journey by ship landed in **Port Nyanzaru** - the only civilized place in **Chult**. 
+![[Djeyunia 2025-01-08-20-03 1.svg]]
 
-![[Pasted image 20250113214926.png]]
 
 ## Character creation
 Create characters at DND Beyond [here](https://www.dndbeyond.com/campaigns/join/63280182930417957). Wait for Paulius to join before creating a character as he has the books.
