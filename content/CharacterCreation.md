@@ -59,4 +59,4 @@ You can use homebrew classes if you want - just run them by me. Most of the inte
 
 # Other Tips
 * Make sure your character can be a team player.
-* You can access Xanatars guide to everything in your DnD beyond app - Chapter 1: This is your life can help you or you can find it [[thisisyourlife|here]]
+* You can access [Xanathar's Guide To Everything](https://www.dndbeyond.com/sources/dnd/xgte?srsltid=AfmBOoomNGBB4gmDpJ6n7eHePD-OC-Iu0EWINvuKteefsDyYOtvE78Mn) in your DnD beyond app - Chapter 1: This is your life can help you or you can find it [[thisisyourlife|here]]
