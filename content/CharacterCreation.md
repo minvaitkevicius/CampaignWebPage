@@ -3,8 +3,10 @@ title: Character Creation
 ---
 
 # Where
-Create characters at DND Beyond [here](https://www.dndbeyond.com/campaigns/join/63280182930417957). 
+Create characters at DND Beyond [here](https://www.dndbeyond.com/campaigns/join/63280182930417957).
+
 or
+
 Create chracaters with MorePurpleMoreBetter PDF sheet  [[CharSheet.pdf|here]] (Requires computer and Adobe Acrobat, doesn't work on mobile, but has more options/sources) - a lot of homebrew classes can be added - just ask me.
 # Facts
 - We start at level 3.
@@ -56,4 +58,5 @@ You get the point. Any part of your backstory that could be used against you is 
 You can use homebrew classes if you want - just run them by me. Most of the internet either recommends looking at [KibblesTasty](https://www.gmbinder.com/profile/kibblestasty) or [LaserLlama classes](https://www.gmbinder.com/profile/laserllama) as their the most balanced and fun.
 
 # Other Tips
-*
+* Make sure your character can be a team player.
+* You can access Xanatars guide to everything in your DnD beyond app - Chapter 1: This is your life can help you or you can find it [[Thisisyourlife|here]]
