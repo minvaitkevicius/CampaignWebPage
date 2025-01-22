@@ -13,37 +13,8 @@ You all, as adventurers during the summer of 1495, have come to join the Guild f
 
 
 ## Character creation
-Create characters at DND Beyond [here](https://www.dndbeyond.com/campaigns/join/63280182930417957). Wait for Paulius to join before creating a character as he has the books.
 
-or
-
-Create chracaters with PDF sheet  [[CharSheet.pdf|here]] (Requires computer and Adobe Acrobat, doesn't work on mobile, but has more options/sources)
-
-- We start at level 3.
-
-- You all gain 1 starting feat at level 1 if you choose a race that gains a feat at level 1 gain the Prodigy feat as the second one.
-
-- You can use any race/class from official sources or non-official sources just ask me first.
-
-- Come up with a compelling reason for why your character would be interested in the dwindling age problem or exploring Chult.
-
-- The world map is yours to play with - you can be from anywhere - create any town, village, city you want - it's up to you.
-
-- You can come up with any connections with any organizations that you imagine - I will write them into the campaign.
-
-- You can all know each other from before if you want, you are level 3 so you do have some adventuring experience.
-
-- **IN THE JUNGLE** - resting is difficult as you need a comfortable camp, **LONG RESTS** take **7 DAYS** of gametime in the wilds, or **8 hours** if in a settlement, safe cave etc.
-
-- For balancing this means that **SHORT RESTS IN THE JUNGLE** take **8 hours**
-
-More info in [[Session 0]]
-
-### Extra Backgrounds
-
-Here are some extra backgrounds that fit the campaign if you're out of ideas.
-[[Backgrounds.pdf]]
-
+[[CharacterCreation|Character Creation]]
 
 ## Extra world info
 You most likely came by ship from Grand Duchy of Kinzar.
