@@ -7,7 +7,7 @@ Create characters at DND Beyond [here](https://www.dndbeyond.com/campaigns/join/
 
 or
 
-Create chracaters with MorePurpleMoreBetter PDF sheet  [[CharSheet.pdf|here]] (Requires computer and Adobe Acrobat, doesn't work on mobile, but has more options/sources) - a lot of homebrew classes can be added - just ask me.
+Create chracaters with MorePurpleMoreBetter PDF sheet  [[Charsheet1.pdf|here]] or [[Charsheet2.pdf|here]] (Requires computer and Adobe Acrobat, doesn't work on mobile, but has more options/sources) - a lot of homebrew classes can be added - just ask me.
 # Facts
 - We start at level 3.
 
