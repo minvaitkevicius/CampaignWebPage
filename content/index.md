@@ -3,7 +3,7 @@ title: Intro
 ---
 
 # Session recaps
-[[Djeyunia World/Website/content/Session 0|Session 0]]
+[[Djeyunia World/Website/content/Recaps/Session 0|Session 0]]
 [[Djeyunia World/Website/content/Recaps/Session 1|Session 1]]
 
 [[Expedition Map]]
