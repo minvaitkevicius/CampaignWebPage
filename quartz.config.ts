@@ -78,13 +78,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-	  CustomOgImages({
-	  colorScheme: "lightMode",
-	  width: 1200
-	  height: 630
-	  excludeRoot:false,
-	  imageStructure:defaultImage
-	  }),
+	  CustomOgImages(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),

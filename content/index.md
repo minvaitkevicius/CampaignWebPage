@@ -5,6 +5,8 @@ title: Intro
 # Session recaps
 [[Recaps/Session 0|Session 0]]
 [[Recaps/Session 1|Session 1]]
+[[Recaps/Session 2|Session 2]]
+[[Recaps/Session 3|Session 3]]
 
 ![[Expedition map.png]]
 
