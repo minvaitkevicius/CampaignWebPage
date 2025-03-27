@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { CustomOgImages } from "./quartz/plugins/emitters/ogImage"
 
 /**
  * Quartz 4.0 Configuration
@@ -77,6 +78,13 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
+	  CustomOgImages({
+	  colorScheme: "lightMode",
+	  width: 1200
+	  height: 630
+	  excludeRoot:false,
+	  imageStructure:defaultImage
+	  }),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
