@@ -1,3 +1,8 @@
+---
+title: Session 3
+socialImage:og-image.png
+---
+
 The adventurers continued south in search of the tracks. They narrowly avoided a giant zombie T-Rex and retrieved a small, glowing globe from its abdomen. That night, they met a giant named **Thyra** who was looking for **Artus Cimber**, explaining that he had stolen a very dangerous artifact from her people. The giant was friendly, but she warned the party that her comrades might not be so welcoming. The next morning, Tuna noticed that the giant had left tracks similar to the ones **Liara Portyr** had sent them to investigate.
 
 ![[ComfyUI_00087_.png]]
