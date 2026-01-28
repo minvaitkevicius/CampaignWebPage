@@ -1,3 +1,5 @@
+![[session11 map.png]]
+
 The party went in the dungeon the goblin lead to and found a few puzzles all of them related to goblin knowledge and goblin language.  With the help of their goblin friend Forb they manage to proceed further and find a library inside the dungeon.
 ![[foodtrial.png]]
 In the library an Elf named Lionel offered an 'exchange' of knowledge. However, they quickly realized something was wrong and found the bodies of the adventure duo that tried to brave the dungeon before them.
