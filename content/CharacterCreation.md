@@ -28,7 +28,7 @@ Create chracaters with MorePurpleMoreBetter PDF sheet  [[Charsheet1.pdf|here]] o
 - For balancing this means that **SHORT RESTS IN THE JUNGLE** take **8 hours**
 
 
-More info in [[Session 0]]
+More info in [[Djeyunia World/Website/content/Recaps/Session 0]]
 
 Below there are some tips that can help you or give some inspiration for your characters.
 # Extra Backgrounds
