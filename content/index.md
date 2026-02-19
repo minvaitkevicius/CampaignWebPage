@@ -5,16 +5,17 @@ title: Intro
 # Session recaps
 [[Recaps/Session 0|Session 0]]
 [[Recaps/Session 1|Session 1]] 
-[[Djeyunia World/Website/content/Recaps/Session 2|Session 2]]
-[[Djeyunia World/Website/content/Recaps/Session 3|Session 3]]
-[[Djeyunia World/Website/content/Recaps/Session 4|Session 4]]
-[[Djeyunia World/Website/content/Recaps/Session 5|Session 5]]
+[[Recaps/Session 2|Session 2]]
+[[Recaps/Session 3|Session 3]]
+[[Recaps/Session 4|Session 4]]
+[[Recaps/Session 5|Session 5]]
 [[Session 6]]
 [[Session 7]]
 [[Session 8]]
 [[Session 9]]
-[[Djeyunia World/Website/content/Recaps/Session 10|Session 10]]
-[[Djeyunia World/Website/content/Recaps/Session 11|Session 11]]
+[[Session 10]]
+[[Session 11]]
+[[Session 12]]
 
 ![[Expedition map.png]]
 
