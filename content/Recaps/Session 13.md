@@ -21,9 +21,10 @@ ___
 The following day brought them to a quiet dinosaur ranch, where a pair of terrified albino dwarves remained barricaded within their cottage. Their livelihood—a herd of dinosaurs—had been scattered by a rising tide of undead. The party split to save the ranch's wealth. **Sara** tracked and gathered twelve  **ankylosauruses**, but as they neared the cottage, a nightmare took shape.
 
 The pursuing zombies did not merely attack; they began to climb one another, fusing into a singular, pulsing **Zombie Clot**. This mountain of necrotic flesh launched tangled corpses like living boulders, burying Sara beneath a heap of the dead. The party fought with desperate ferocity, tearing the symbiont apart before the rest of the group could even join the fray. Grateful for their lives and their herd, the dwarves gifted the party two ankylosauruses and pointed them toward two landmarks: the **Old Gardens** of Omu to the west, and the **Heart of Ubtao**—a bleeding earth mote—to the east.
-![[ZombieClot.png]]
-### The Bitter Taste of Home
 
+![[ZombieClot.png]]
+
+___
 That night, the jungle played one final trick. While on watch, **Kornelijus** caught the unmistakable, heart-aching scent of his mother’s signature stew. He found a sweet, elderly woman tending a pot at the edge of the clearing. She smiled, offering a spoonful of "home."
 
 The scent was perfect, but the taste was ash and venom.
@@ -35,7 +36,7 @@ Realizing the deception, Kornelijus struck out. The "grandmother" dissolved into
 - **Ezra** saw the crumbling spires of Omu.    
 - And **Kornelijus** spent the night screaming, trapped in a dream where he boiled endlessly in his mother's pot.
 
-!![[stew.jpg]]
+![[stew.jpg]]
 
 
 ### The road so far
