@@ -1,2 +1,3 @@
-Day: 5
-![[Expedition map.png]]
+Day: 25
+
+![[Pasted image 20260308162501.png]]
