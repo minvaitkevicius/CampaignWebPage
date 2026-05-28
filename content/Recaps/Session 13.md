@@ -1,7 +1,4 @@
----
-title: Session 13
-socialImage: http://campaignwebpage.pages.dev/img/The-Great-Race.png
----
+
 The morning mist clung to the jungle floor as the party took a moment of respite, sorting through the glinting magic items and swirling potions claimed from their previous trials. But as the sun climbed high, the heat of Chult became a physical weight, driving them further south toward the elusive Omu.
 
 Their path first led to a crumbling wooden shelter, a lonely ruin surrounded by a perimeter of trapped, snarling zombies. Once the undead were returned to the earth, the party ventured inside to find the remains of an adventurer clad in a suit of heavy armor unlike any they had seen—pristine, yet forged from strange, interlocking chitin. **Kornelijus** claimed the prize, sliding into the plates only to feel the sharp bite of hidden spikes at the neck. The armor was now a part of him, a protective shell that refused to be cast aside.
