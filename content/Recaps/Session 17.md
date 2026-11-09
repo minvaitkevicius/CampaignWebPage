@@ -1,0 +1,19 @@
+After their quick scuffle with Artus in Mbala, the party decided to follow him towards Orolunga. They made their way quickly through the jungle to reach a large pyramid. The pyramid was old and weathered, its first level overgrown with vines and sharp, thorny creeping plants. As they tried to climb the pyramid, the plants blocking the path raked across Kornelijus's arms, making each step a painful, bloody agony. Struggling with the plants, he saw a small spirit of Chult darting through the vines carrying a purple flower. A path opened up for the small Chwinga as it darted up to the second level. Meanwhile, Tuna and Ezra's bird flew up the pyramid to bypass the obstacles, yet found nothing interesting or unusual at the top just an empty stone room.
+![[chwinga running.jpg]]
+
+After obtaining the purple flower and reaching the second level, they noticed that the Chwingas were now carrying two flowers and easily gliding up the second set of stairs, which were crumbling to the touch. After some creative searching, the party obtained the two flowers but were stopped by a third set of stairs teeming with snakes. Once again they looked to the small spirits, which this time were doing a little dance while holding a red bird feather for a small snake. The snake suddenly burst into the creature's mouth, and the Chwinga started slithering up the stairs, the snakes giving way.
+![[Chwinga dancing.jpg]]
+At the top, they heard someone conversing inside the pyramid: a man and the serpentine voice of a woman. They waited for the conversation to end, hiding just to the side of the entrance arch. A frustrated Artus Cimber, with his reptilian saurion companion, appeared from the room and started descending the stairs. Quickly, the party tried to subdue Artus, pushing him down the stairs and trying to knock him out. However, Kornelijus got a bit carried away and jumped down the flight of stairs with his sword pointed towards the prone Artus. As the goliath landed loudly on the stone floor, the sound was followed by multiple wet thumps as the head of Artus Cimber barreled down the crumbling temple stairs.
+
+After subduing his companion, the party went up the temple stairs. In the small stone room, they met a Guardian Naga named Saja n Baza. The Naga was an oracle a long time ago and was now contacting the future from her past. The party confirmed the location of Omu and learned that Ras Nsi is an evil and treacherous foe. She also revealed to Tuna the location of a powerful artifact in the lost city of Mezro, and warned that they were now being followed by large creatures from the frigid north.
+
+As they left the temple, they heard thunderous steps. The party quickly made their way to a maze transport room at the base of the pyramid, ducking into the portal just as a giant axe struck the stone beside them.
+
+![[Pasted image 20261109203432.png]]
+
+Back at the Heart of Ubtao, they discussed what to do with Artus's companion, Dragonbait, and the ring they had recovered from Artus. Dragonbait hinted at the sword they found on him, inside which a _raise dead_ scroll was hidden. The party tried to resurrect Artus, but his soul was too tired to continue the journey.
+
+Žvirblis decided to try the ring on. Instantly, he felt a presence emanating from it and had an uncontrollable desire to kill every last one of his friends. After a powerful cold blast, the party quickly knocked Žvirblis out and removed the ring from his finger. During this chaos, Dragonbait ran towards the maze portal and quickly opened one. The party followed and found themselves back in Port Nyanzaru at the home of the merchant prince Wakanga. They quickly escaped the villa back into the bustling streets of Port Nyanzaru, catching a glimpse of a room across the garden full of newly arrived magic items.
+
+
+![[store_chult.png]]
